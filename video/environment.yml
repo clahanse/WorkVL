@@ -1,0 +1,5 @@
+name: video
+channels:
+  - defaults
+dependencies: []
+prefix: /home/dcampos/.conda3/envs/video

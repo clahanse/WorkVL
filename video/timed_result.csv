@@ -1,0 +1,65 @@
+00:00:00,00:00:03,Employee stationary but not serving any customer,0 days 00:00:00,shop140525-0945,Ablation prompt,0
+00:00:03,00:00:26,Employee serving a customer,0 days 00:00:03,shop140525-0945,Ablation prompt,0
+00:00:32,00:00:59,Employee serving a customer,0 days 00:00:32,shop140525-0945,Ablation prompt,0
+00:00:00,00:00:03,Customer entering the shop,0 days 00:00:00,shop140525-0945,Ablation prompt,0
+00:00:03,00:00:26,Customer at counter,0 days 00:00:03,shop140525-0945,Ablation prompt,0
+00:00:32,00:00:59,Customer at counter,0 days 00:00:32,shop140525-0945,Ablation prompt,0
+00:00:00,00:00:04,Employee serving a customer,0 days 00:01:00,shop140525-0945,Ablation prompt,1
+00:00:04,00:00:09,Customer leaving the shop,0 days 00:01:04,shop140525-0945,Ablation prompt,1
+00:00:15,00:00:28,Customer at counter,0 days 00:01:15,shop140525-0945,Ablation prompt,1
+00:00:28,00:00:32,Customer leaving the shop,0 days 00:01:28,shop140525-0945,Ablation prompt,1
+00:00:36,00:00:59,Employee stationary but not serving any customer,0 days 00:01:36,shop140525-0945,Ablation prompt,1
+00:00:00,00:00:03,Employee stationary but not serving any customer,0 days 00:02:00,shop140525-0945,Ablation prompt,2
+00:00:03,00:00:07,Employee doing other activities without a customer,0 days 00:02:03,shop140525-0945,Ablation prompt,2
+00:00:07,00:00:11,Employee stationary but not serving any customer,0 days 00:02:07,shop140525-0945,Ablation prompt,2
+00:00:11,00:00:14,Employee doing other activities without a customer,0 days 00:02:11,shop140525-0945,Ablation prompt,2
+00:00:14,00:00:21,Customer at counter,0 days 00:02:14,shop140525-0945,Ablation prompt,2
+00:00:21,00:00:25,Employee stationary but not serving any customer,0 days 00:02:21,shop140525-0945,Ablation prompt,2
+00:00:25,00:00:29,Employee doing other activities without a customer,0 days 00:02:25,shop140525-0945,Ablation prompt,2
+00:00:29,00:00:33,Employee stationary but not serving any customer,0 days 00:02:29,shop140525-0945,Ablation prompt,2
+00:00:33,00:00:37,Employee doing other activities without a customer,0 days 00:02:33,shop140525-0945,Ablation prompt,2
+00:00:37,00:00:41,Employee stationary but not serving any customer,0 days 00:02:37,shop140525-0945,Ablation prompt,2
+00:00:41,00:00:45,Employee doing other activities without a customer,0 days 00:02:41,shop140525-0945,Ablation prompt,2
+00:00:45,00:00:49,Employee stationary but not serving any customer,0 days 00:02:45,shop140525-0945,Ablation prompt,2
+00:00:49,00:00:53,Employee doing other activities without a customer,0 days 00:02:49,shop140525-0945,Ablation prompt,2
+00:00:53,00:00:57,Employee stationary but not serving any customer,0 days 00:02:53,shop140525-0945,Ablation prompt,2
+00:00:57,00:00:59,Employee doing other activities without a customer,0 days 00:02:57,shop140525-0945,Ablation prompt,2
+00:00:00,00:00:04,Employee stationary but not serving any customer,0 days 00:03:00,shop140525-0945,Ablation prompt,3
+00:00:04,00:00:08,Employee doing other activities without a customer,0 days 00:03:04,shop140525-0945,Ablation prompt,3
+00:00:08,00:00:12,Employee serving a customer,0 days 00:03:08,shop140525-0945,Ablation prompt,3
+00:00:12,00:00:16,Employee serving a customer,0 days 00:03:12,shop140525-0945,Ablation prompt,3
+00:00:16,00:00:20,Employee serving a customer,0 days 00:03:16,shop140525-0945,Ablation prompt,3
+00:00:20,00:00:24,Employee serving a customer,0 days 00:03:20,shop140525-0945,Ablation prompt,3
+00:00:24,00:00:28,Employee serving a customer,0 days 00:03:24,shop140525-0945,Ablation prompt,3
+00:00:28,00:00:32,Employee serving a customer,0 days 00:03:28,shop140525-0945,Ablation prompt,3
+00:00:32,00:00:36,Employee serving a customer,0 days 00:03:32,shop140525-0945,Ablation prompt,3
+00:00:36,00:00:40,Employee serving a customer,0 days 00:03:36,shop140525-0945,Ablation prompt,3
+00:00:40,00:00:44,Employee serving a customer,0 days 00:03:40,shop140525-0945,Ablation prompt,3
+00:00:44,00:00:48,Employee serving a customer,0 days 00:03:44,shop140525-0945,Ablation prompt,3
+00:00:48,00:00:52,Employee serving a customer,0 days 00:03:48,shop140525-0945,Ablation prompt,3
+00:00:52,00:00:56,Employee serving a customer,0 days 00:03:52,shop140525-0945,Ablation prompt,3
+00:00:56,00:00:59,Employee serving a customer,0 days 00:03:56,shop140525-0945,Ablation prompt,3
+00:00:00,00:00:03,Employee stationary but not serving any customer,0 days 00:04:00,shop140525-0945,Ablation prompt,4
+00:00:03,00:00:07,Employee retrieving items,0 days 00:04:03,shop140525-0945,Ablation prompt,4
+00:00:07,00:00:10,Employee serving a customer,0 days 00:04:07,shop140525-0945,Ablation prompt,4
+00:00:10,00:00:13,Employee stationary but not serving any customer,0 days 00:04:10,shop140525-0945,Ablation prompt,4
+00:00:13,00:00:20,Employee doing other activities without a customer,0 days 00:04:13,shop140525-0945,Ablation prompt,4
+00:00:20,00:00:36,Employee serving a customer,0 days 00:04:20,shop140525-0945,Ablation prompt,4
+00:00:36,00:00:40,Employee stationary but not serving any customer,0 days 00:04:36,shop140525-0945,Ablation prompt,4
+00:00:40,00:00:59,Employee doing other activities without a customer,0 days 00:04:40,shop140525-0945,Ablation prompt,4
+00:00:59,00:01:00,Customer entering the shop,0 days 00:04:59,shop140525-0945,Ablation prompt,4
+00:00:59,00:01:00,Customer leaving the shop,0 days 00:04:59,shop140525-0945,Ablation prompt,4
+00:00:00,00:00:01,Employee stationary but not serving any customer,0 days 00:05:00,shop140525-0945,Ablation prompt,5
+00:00:01,00:00:04,Employee serving a customer,0 days 00:05:01,shop140525-0945,Ablation prompt,5
+00:00:04,00:00:06,Employee stationary but not serving any customer,0 days 00:05:04,shop140525-0945,Ablation prompt,5
+00:00:06,00:00:10,Employee serving a customer,0 days 00:05:06,shop140525-0945,Ablation prompt,5
+00:00:10,00:00:15,Employee stationary but not serving any customer,0 days 00:05:10,shop140525-0945,Ablation prompt,5
+00:00:15,00:00:20,Employee serving a customer,0 days 00:05:15,shop140525-0945,Ablation prompt,5
+00:00:20,00:00:23,Employee stationary but not serving any customer,0 days 00:05:20,shop140525-0945,Ablation prompt,5
+00:00:23,00:00:30,Employee serving a customer,0 days 00:05:23,shop140525-0945,Ablation prompt,5
+00:00:30,00:00:35,Employee stationary but not serving any customer,0 days 00:05:30,shop140525-0945,Ablation prompt,5
+00:00:35,00:00:40,Employee serving a customer,0 days 00:05:35,shop140525-0945,Ablation prompt,5
+00:00:40,00:00:45,Employee stationary but not serving any customer,0 days 00:05:40,shop140525-0945,Ablation prompt,5
+00:00:45,00:00:50,Employee serving a customer,0 days 00:05:45,shop140525-0945,Ablation prompt,5
+00:00:50,00:00:55,Employee stationary but not serving any customer,0 days 00:05:50,shop140525-0945,Ablation prompt,5
+00:00:55,00:00:59,Employee serving a customer,0 days 00:05:55,shop140525-0945,Ablation prompt,5
